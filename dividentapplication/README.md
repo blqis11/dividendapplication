@@ -43,12 +43,6 @@ yaml
 
 ---
 
-## 📱 Screenshots
-
-*(You can add screenshots of your app here if needed)*
-
----
-
 ## 🚀 How to Run
 
 1. Open Android Studio.
